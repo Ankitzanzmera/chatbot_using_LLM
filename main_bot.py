@@ -66,4 +66,4 @@ async def chatgpt(message: types.Message):
 
 
 if __name__ == "__main__":
-    executor.start_polling(dp,skip_updates=False)
+    executor.start_polling(dispatcher,skip_updates=False) ### skip_updates : when we start bot it will give response of all requests, which wasn't resposed bot because of network issues or bot was off
