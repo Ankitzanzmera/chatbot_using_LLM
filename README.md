@@ -16,3 +16,8 @@
 ```bash
     pip install -r requirements.txt
 ```
+
+## For accesing a Bot please search following name on telegram
+```bash
+    First_bot_29
+```
